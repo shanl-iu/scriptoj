@@ -1,0 +1,2 @@
+# scriptoj
+daily javascript practice
